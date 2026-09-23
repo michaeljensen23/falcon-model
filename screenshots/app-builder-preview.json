@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Falcon Wealth",
+      "hasCanvas": false,
+      "bodyTextLen": 243,
+      "bodyTextHash": "7144f1f03dee057be6e2eb033dc9ff2fe2a2f98422a30a449443b4b236f52805",
+      "bodyTextPrefix": "Falcon advisors The portfolio model is limited to Google account",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Falcon Wealth",
+      "hasCanvas": false,
+      "bodyTextLen": 243,
+      "bodyTextHash": "7144f1f03dee057be6e2eb033dc9ff2fe2a2f98422a30a449443b4b236f52805",
+      "bodyTextPrefix": "Falcon advisors The portfolio model is limited to Google account",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
